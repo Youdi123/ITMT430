@@ -17,11 +17,12 @@
 <h3>Cameron Gluth - IT Technician</h3>
 <p>Set up commincation channel</p>
 <p>Contributed to Inital project ideas</p>
+<h3>Youdi Chen - IT Operations</h3>
+<p></p>Located database options, completed creation of database er diagram, and model data</p>
 <h3>Yejin Park - UI/UX Developer</h3>
 <p>Handled development of the inital designed of pages</p>
 <p>Created User Flow demonstration</p>
-<h3>Youdi Chen - IT Operations<h3>
-<p>Located database options, completed creation of database er diagram, and model data</p>
+
 
 
 
