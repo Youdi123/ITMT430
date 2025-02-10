@@ -1,12 +1,12 @@
 <h1>Sprint-01</h1>
-<h2>Self-Critique<h2>
+<h2>Self-Critique</h2>
 <h3>role</h3>
 <p>IT Operations</p>
 <h3>tasks completed</h3>
 <p>Under the leadership of the project manager, the database selection is finalized. Complete the database diagram according to the preliminary setup of the project. Complete and test the data of the database model.</p>
 <h3>critique</h3>
 <p>The shortcoming in this group cooperation is that the time of joining the team is a little delayed due to my own problems. Since I was absent from last week's class, teamwork helped me understand this group assignment and finally determine the work of IT OPERATIONS. It is necessary to contact the team members in time for the next group assignment.</p>
-<h2>Group-Critique<h2>
+<h2>Group-Critique</h2>
 <h3>Avery Huerta - Project Manager</h3>
 <p>Created the Compact file and the rules inside</p>
 <p>Created the About file and the content inside</p>
